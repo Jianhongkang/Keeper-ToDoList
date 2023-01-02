@@ -61,7 +61,8 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #7ba23f;
+  background: #7ba23f;
+  color: #fff;
   border: none;
   width: 36px;
   height: 36px;
